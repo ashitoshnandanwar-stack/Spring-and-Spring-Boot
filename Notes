@@ -1,0 +1,13 @@
+#Advantages of spring
+1. Modular and lightweights
+2. Flexible configuration
+3. Dependency injection (DI)
+4. Aspect oriented programming (AOP)
+5. Simplified Databases access
+6. Testing support
+7. Security
+8. Integration capability
+9. Scalability
+10. Open source
+
+- Spring container(heart of spring)
