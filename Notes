@@ -11,3 +11,13 @@
 10. Open source
 
 - Spring container(heart of spring)
+Types of spring containers = Bean factory(old) and Application context(new)
+Application context is interface.
+
+POJO(Plain Old Java Object) class - Class with properties and getter and setter
+
+Configuration file provided through - xml file, java file, annotations file
+
+JdbcTemplate classs = it is central class in Spring-JDBC module
+it is used to perform database operations (CRUD Operations)
+Methods JdbcTemplates contains all query methods
