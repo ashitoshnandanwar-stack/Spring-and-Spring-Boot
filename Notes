@@ -21,3 +21,6 @@ Configuration file provided through - xml file, java file, annotations file
 JdbcTemplate classs = it is central class in Spring-JDBC module
 it is used to perform database operations (CRUD Operations)
 Methods JdbcTemplates contains all query methods
+
+Dependency injection done by two ways : 1. constructor through  2. Autowired
+
